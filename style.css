@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: coral;
+    height: 1000px;
+}
+.outerwrapper{
+    background-color: white;
+    margin: 5% 5% 5% 5% ;
+    height: 95%;
+    width: 90%;
+    overflow: hidden;
+}
+.header{
+    background-color: black;
+    margin: 5% 5% 5% 5% ;
+    height: 100px;
+    width: 90%;
+}
+.mainwrapper{
+    background-color: blue;
+    margin: 5% 5% 5% 5% ;
+    height: 50%;
+    width: 60%;
+    overflow: hidden;
+    float: left;
+}
+.post{
+    background-color: yellow;
+    margin: 5% 5% 5% 5% ;
+    height: 85%;
+    width: 90%;
+}
+.sidebar{
+    background-color: rgb(90, 124, 23);
+    margin: 5% 5% 5% ;
+    height: 50%;
+    width: 20%;
+    float: right;
+}
+.footer{
+    background-color: orchid;
+    margin: 5% 5% 5% 5% ;
+    height: 80px;
+    width: 90%;
+}
